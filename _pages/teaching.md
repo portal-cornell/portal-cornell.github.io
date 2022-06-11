@@ -11,18 +11,17 @@ nav_loc: 3
 Undergraduate and graduate courses taught in Cornell -->
 
 ## CS 6756: Learning for Robot Decision Making (L4RD)
-*starting Fall 2022!*
+[https://www.cs.cornell.edu/courses/cs6756/2022fa/](https://www.cs.cornell.edu/courses/cs6756/2022fa/) (*starting Fall 2022!*)
 
-Advances in machine learning have fueled progress towards deploying real-world robots from assembly lines to self-driving. Learning to make better decisions for robots presents a unique set of challenges. Robots must be safe, learn online from interactions with the environment, and predict the intent of their human partners. This graduate-level course dives into the various paradigms for robot learning and decision making. We look at:
-1.	Interactive no-regret learning as a fundamental framework for handling distribution shifts, hedging, exploration/exploitation. 
-2.	Practical reinforcement learning that leverages both model predictive control and model-free methods.
-3.	Imitation learning from various modes of feedback (demonstrations, interventions, preferences) as a unified, game-theoretic framework.
-4.	Open challenges such as causal confounds and offline learning.
-This course focuses on algorithms, practical considerations, and will feature a strong programming component.
+Advances in machine learning have fueled progress towards deploying real-world robots from assembly lines to self-driving. Learning to make better decisions for robots presents a unique set of challenges. Robots must be safe, learn online from interactions with the environment, and predict the intent of their human partners. This graduate-level course dives deep into the various paradigms for robot learning and decision making. We look at:
+1. **Interactive no-regret learning** as a fundamental framework for handling distribution shifts, hedging, exploration/exploitation.
+2. **Imitation learning** from various modes of interaction (demonstrations, interventions) as a unified, game-theoretic framework.
+3. **Practical reinforcement learning** that leverages both model predictive control and model-free methods.
+4. **Open challenges** such as safety, causal confounds and offline learning.
 
+This course focuses on algorithms, lessons from real world robotics and features a strong programming component.
 
-<!-- ## Online Lectures
-I recently started putting out a series of online lectures. They cover a range of topics, starting with my favourite: imitation learning! I had a lot of fun experimenting with different mediums and plan to put up more.  -->
+<img src="../assets/img/teaching/l4rd.png" style="width:100%;" alt="l4rd" />
 
 <br>
 <hr>

@@ -16,5 +16,5 @@ social: true  # includes social icons at the bottom of the page
 **P**eople and **R**obots **T**eaching and **L**earning (PoRTaL) group is part of [Cornell Computer Science](https://www.cs.cornell.edu/).
 Our mission is to enable robots to work seamlessly alongside human partners in the wild.
 To this end, our work focuses on imitation learning, decision making and human-robot interaction. 
-We are passionate about both theory and algorithms that enable robots with skills to work with people.
+We are passionate about both theory and algorithms that equip robots with skills to work with people.
 We focus on settings where a robot continually interacts with humans and its environment on domains such as collaborative mobile manipulation.
