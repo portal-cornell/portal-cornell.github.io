@@ -37,8 +37,7 @@ nav_loc: 2
           </div>
     </div>
 
- <div class="grid-sizer"></div>
-      <div class="grid-item">
+  <div class="grid-item">
         <a href="https://kushal2000.github.io/" target="_blank">
           <div class="card hoverable">
             <img src="../assets/img/people/kushal_kedia.jpg">
@@ -54,6 +53,7 @@ nav_loc: 2
 
 
    <div class="grid-item">
+          <a href="https://gokul.dev/" target="_blank">
           <div class="card hoverable">
             <img src="../assets/img/people/gokul.jpg">
             <div class="card-body">
@@ -63,6 +63,7 @@ nav_loc: 2
             </center>
             </div>
           </div>
+        </a>
     </div>
 
   </div>

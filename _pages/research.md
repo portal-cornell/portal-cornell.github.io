@@ -50,6 +50,8 @@ nav_loc: 1
 
 <a href="#interactive_imitation"></a>
 <div id="interactive_imitation"></div>
+<br/><br/><br/><br/>
+
 ## Interactive Imitation Learning 
 
 Often times, *explicitly programming* a robot can be very challenging. 
@@ -149,6 +151,8 @@ An everyday human user, however, presents a number of challenges:
 
 <a href="#task_representation"></a>
 <div id="task_representation"></div>
+<br/><br/><br/><br/>
+
 ## Task Representation Learning
 
 We want personal robots that come with a repertoire of skills that can be composed to solve any boutique task in our homes. Every home is different, every human is different. Robots must be able to learn new tasks from a handful of demonstrations and interactions with the human user. Abstractly, one can think of a task as -- given an initial configuration of objects, reach a desired goal configuration following a series of feasible operations that do not violate constraints. Learning both the goal and constraints comes with a number of challenges:
@@ -164,6 +168,8 @@ We want personal robots that come with a repertoire of skills that can be compos
 
 <a href="#planning_humans"></a>
 <div id="planning_humans"></div>
+<br/><br/><br/><br/>
+
 ## Planning Alongside Humans
 
 For robots to work seamlessly alongside human partners, they must operate in a safe and legible manner while matching human cadence. 

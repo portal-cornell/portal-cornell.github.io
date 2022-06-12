@@ -17,7 +17,7 @@ Advances in machine learning have fueled progress towards deploying real-world r
 1. **Interactive no-regret learning** as a fundamental framework for handling distribution shifts, hedging, exploration/exploitation.
 2. **Imitation learning** from various modes of interaction (demonstrations, interventions) as a unified, game-theoretic framework.
 3. **Practical reinforcement learning** that leverages both model predictive control and model-free methods.
-4. **Open challenges** such as safety, causal confounds and offline learning.
+4. **Open challenges** in safety, causal confounds and offline learning.
 
 This course focuses on algorithms, lessons from real world robotics and features a strong programming component.
 
