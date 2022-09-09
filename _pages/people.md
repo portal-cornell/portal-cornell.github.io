@@ -71,7 +71,7 @@ nav_loc: 2
             <div class="card-body">
             <center>
               <h2 class="card-title text">Nathaniel Chin</h2>
-              <p class="card-text">Undergraduate</p>
+              <p class="card-text">Undergraduate Student</p>
             </center>
             </div>
           </div>
@@ -83,7 +83,7 @@ nav_loc: 2
             <div class="card-body">
             <center>
               <h2 class="card-title text">Kelly Chen</h2>
-              <p class="card-text">Undergraduate</p>
+              <p class="card-text">Undergraduate Student</p>
             </center>
             </div>
           </div>
@@ -95,7 +95,7 @@ nav_loc: 2
             <div class="card-body">
             <center>
               <h2 class="card-title text">Edward Gu</h2>
-              <p class="card-text">Undergraduate</p>
+              <p class="card-text">Undergraduate Student</p>
             </center>
             </div>
           </div>
@@ -107,7 +107,7 @@ nav_loc: 2
             <div class="card-body">
             <center>
               <h2 class="card-title text">Juntao Ren</h2>
-              <p class="card-text">Undergraduate</p>
+              <p class="card-text">Undergraduate Student</p>
             </center>
             </div>
           </div>
