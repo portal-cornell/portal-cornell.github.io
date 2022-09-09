@@ -79,7 +79,7 @@ nav_loc: 2
 
     <div class="grid-item">
           <div class="card hoverable">
-            <img src="../assets/img/people/kelly_chen.jpg">
+            <img src="../assets/img/people/kelly_chen.JPG">
             <div class="card-body">
             <center>
               <h2 class="card-title text">Kelly Chen</h2>
