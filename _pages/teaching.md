@@ -4,14 +4,17 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_loc: 3
+nav_loc: 4
 ---
 
 <!-- ## Cornell Courses
 Undergraduate and graduate courses taught in Cornell -->
 
-## CS 6756: Learning for Robot Decision Making (L4RD)
-[https://www.cs.cornell.edu/courses/cs6756/2022fa/](https://www.cs.cornell.edu/courses/cs6756/2022fa/) (*starting Fall 2022!*)
+## CS 4756: Robot Learning
+(*starting Spring 2023!*)
+
+## CS 6756: Learning for Robot Decision Making 
+[https://www.cs.cornell.edu/courses/cs6756/2022fa/](https://www.cs.cornell.edu/courses/cs6756/2022fa/) 
 
 Advances in machine learning have fueled progress towards deploying real-world robots from assembly lines to self-driving. Learning to make better decisions for robots presents a unique set of challenges. Robots must be safe, learn online from interactions with the environment, and predict the intent of their human partners. This graduate-level course dives deep into the various paradigms for robot learning and decision making. We look at:
 1. **Interactive no-regret learning** as a fundamental framework for handling distribution shifts, hedging, exploration/exploitation.

@@ -50,6 +50,53 @@ nav_loc: 2
         </a>
     </div>
 
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/nathaniel.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Nathaniel Chin</h2>
+            <p class="card-text">Undergraduate Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/kelly_chen.JPG">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Kelly Chen</h2>
+            <p class="card-text">Undergraduate Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/edward.jpeg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Edward Gu</h2>
+            <p class="card-text">Undergraduate Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/juntao.jpeg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Juntao Ren</h2>
+            <p class="card-text">Undergraduate Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
 
    <div class="grid-item">
           <a href="https://gokul.dev/" target="_blank">
@@ -63,54 +110,6 @@ nav_loc: 2
             </div>
           </div>
         </a>
-    </div>
-
-    <div class="grid-item">
-          <div class="card hoverable">
-            <img src="../assets/img/people/nathaniel.jpg">
-            <div class="card-body">
-            <center>
-              <h2 class="card-title text">Nathaniel Chin</h2>
-              <p class="card-text">Undergraduate Student</p>
-            </center>
-            </div>
-          </div>
-    </div>
-
-    <div class="grid-item">
-          <div class="card hoverable">
-            <img src="../assets/img/people/kelly_chen.JPG">
-            <div class="card-body">
-            <center>
-              <h2 class="card-title text">Kelly Chen</h2>
-              <p class="card-text">Undergraduate Student</p>
-            </center>
-            </div>
-          </div>
-    </div>
-
-    <div class="grid-item">
-          <div class="card hoverable">
-            <img src="../assets/img/people/edward.jpeg">
-            <div class="card-body">
-            <center>
-              <h2 class="card-title text">Edward Gu</h2>
-              <p class="card-text">Undergraduate Student</p>
-            </center>
-            </div>
-          </div>
-    </div>
-
-    <div class="grid-item">
-          <div class="card hoverable">
-            <img src="../assets/img/people/juntao.jpeg">
-            <div class="card-body">
-            <center>
-              <h2 class="card-title text">Juntao Ren</h2>
-              <p class="card-text">Undergraduate Student</p>
-            </center>
-            </div>
-          </div>
     </div>
 
   </div>

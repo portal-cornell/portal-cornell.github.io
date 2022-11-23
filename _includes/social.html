@@ -55,3 +55,6 @@
             {%- if site.rss_icon -%}
             <a href="{{ site.baseurl | prepend: site.url }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
             {% endif %}
+            {%- if site.youtube_username -%}
+            <a href="https://www.youtube.com/@{{site.youtube_username }}" title="YouTube"><i class="fab fa-youtube"></i></a>
+            {% endif %}

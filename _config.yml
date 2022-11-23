@@ -70,7 +70,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-
+youtube_username: PortalCornell
 contact_note:
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
@@ -115,7 +115,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

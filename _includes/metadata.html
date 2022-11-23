@@ -132,7 +132,11 @@
     {%- if sameaslinks != blank -%}
         {%- assign sameaslinks = sameaslinks | split: "" -%}
     {%- endif -%}
-
+    {%- if site.youtube_username -%}
+        {%- capture link -%}https://www.youtube.com/@{{site.youtube_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    
     <script type="application/ld+json">
       {
         "author":
