@@ -15,6 +15,8 @@ nav_loc: 3
 
 HAL aims to help humans automate daily tasks around the house. Since HAL is an apprentice, it can learn a new task, such as clean up after dinner, only from a few human demonstrations. HAL is also rumored to have an [evil twin](https://en.wikipedia.org/wiki/HAL_9000). 
 
+[Follow our channel](https://www.youtube.com/channel/UCSVukhmD_xMMNeJT8wiLLMA) to see how we are building HAL!
+
 ## **D**extr**o**us **R**obot **A**pprentice (DORA)
 
 <p style="text-align:center;">
