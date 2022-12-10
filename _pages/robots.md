@@ -17,7 +17,9 @@ HAL aims to help humans automate daily tasks around the house. Since HAL is an a
 
 ## **D**extr**o**us **R**obot **A**pprentice (DORA)
 
-*coming soon*
+<p style="text-align:center;">
+<img src="../assets/img/robot/dora.jpg" style="width:25%;" alt="dora">
+</p>
 
 DORA aims to help humans do dextrous tasks, like cooking, assembly and crafts. DORA too is an apprentice and can learn quickly from demonstrations. Thankfully, no evil twins to worry about here!
 
