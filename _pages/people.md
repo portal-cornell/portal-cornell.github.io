@@ -98,6 +98,30 @@ nav_loc: 2
         </div>
   </div>
 
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/prithwish.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Prithwish Dan</h2>
+            <p class="card-text">Undergraduate Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+  
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/gonzalo.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Gonzalo Gonzalez</h2>
+            <p class="card-text">M.S. Student</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
    <div class="grid-item">
           <a href="https://gokul.dev/" target="_blank">
           <div class="card hoverable">
