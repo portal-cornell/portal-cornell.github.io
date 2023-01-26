@@ -74,7 +74,7 @@ nav_loc: 2
         </div>
   </div>
 
-  <div class="grid-item">
+  <!-- <div class="grid-item">
         <div class="card hoverable">
           <img src="../assets/img/people/edward.jpeg">
           <div class="card-body">
@@ -84,7 +84,7 @@ nav_loc: 2
           </center>
           </div>
         </div>
-  </div>
+  </div> -->
 
   <div class="grid-item">
         <div class="card hoverable">
@@ -135,11 +135,12 @@ nav_loc: 2
           </div>
         </a>
     </div>
-
   </div>
 </div>
 
 
-
+### Alumni
+##### Undergraduate Students
+Edward Gu
 
 
