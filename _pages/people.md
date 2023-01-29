@@ -121,14 +121,17 @@ nav_loc: 2
           </div>
         </div>
   </div>
+</div>
+</div>
 
 ### Collaborators
+
 Gokul Swamy
+
 David Durst
 
 ### Alumni
 
-##### Undergraduate Students
 Edward Gu
 
 
