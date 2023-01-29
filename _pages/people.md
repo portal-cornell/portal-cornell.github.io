@@ -122,24 +122,12 @@ nav_loc: 2
         </div>
   </div>
 
-   <div class="grid-item">
-          <a href="https://gokul.dev/" target="_blank">
-          <div class="card hoverable">
-            <img src="../assets/img/people/gokul.jpg">
-            <div class="card-body">
-            <center>
-              <h2 class="card-title text">Gokul Swamy</h2>
-              <p class="card-text">Ph.D. Student (CMU)</p>
-            </center>
-            </div>
-          </div>
-        </a>
-    </div>
-  </div>
-</div>
-
+### Collaborators
+Gokul Swamy
+David Durst
 
 ### Alumni
+
 ##### Undergraduate Students
 Edward Gu
 
