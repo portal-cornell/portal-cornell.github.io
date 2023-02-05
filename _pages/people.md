@@ -30,7 +30,7 @@ nav_loc: 2
             <div class="card-body">
             <center>
               <h2 class="card-title text">Yuki Wang</h2>
-              <p class="card-text">Ph.D. Student</p>
+              <p class="card-text">Ph.D.</p>
             </center>
             </div>
           </div>
@@ -43,7 +43,7 @@ nav_loc: 2
             <div class="card-body">
             <center>
              <h2 class="card-title text">Kushal Kedia</h2>
-             <p class="card-text">Ph.D. Student</p>
+             <p class="card-text">Ph.D.</p>
           	</center>
             </div>
           </div>
@@ -52,11 +52,11 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/nathaniel.jpg">
+          <img src="../assets/img/people/kelly_chen.JPG">
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Nathaniel Chin</h2>
-            <p class="card-text">Undergraduate Student</p>
+            <h2 class="card-title text">Kelly Chen</h2>
+            <p class="card-text">Undergraduate</p>
           </center>
           </div>
         </div>
@@ -64,27 +64,15 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/kelly_chen.JPG">
+          <img src="../assets/img/people/nathaniel.jpg">
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Kelly Chen</h2>
-            <p class="card-text">Undergraduate Student</p>
+            <h2 class="card-title text">Nathaniel Chin</h2>
+            <p class="card-text">Undergraduate</p>
           </center>
           </div>
         </div>
   </div>
-
-  <!-- <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/edward.jpeg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Edward Gu</h2>
-            <p class="card-text">Undergraduate Student</p>
-          </center>
-          </div>
-        </div>
-  </div> -->
 
   <div class="grid-item">
         <div class="card hoverable">
@@ -92,7 +80,7 @@ nav_loc: 2
           <div class="card-body">
           <center>
             <h2 class="card-title text">Juntao Ren</h2>
-            <p class="card-text">Undergraduate Student</p>
+            <p class="card-text">Undergraduate</p>
           </center>
           </div>
         </div>
@@ -104,7 +92,7 @@ nav_loc: 2
           <div class="card-body">
           <center>
             <h2 class="card-title text">Prithwish Dan</h2>
-            <p class="card-text">Undergraduate Student</p>
+            <p class="card-text">Undergraduate</p>
           </center>
           </div>
         </div>
@@ -116,7 +104,19 @@ nav_loc: 2
           <div class="card-body">
           <center>
             <h2 class="card-title text">Gonzalo Gonzalez</h2>
-            <p class="card-text">M.S. Student</p>
+            <p class="card-text">M.S.</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/david_wu.png">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">David Wu</h2>
+            <p class="card-text">High School</p>
           </center>
           </div>
         </div>
@@ -126,12 +126,12 @@ nav_loc: 2
 
 ### Collaborators
 
-Gokul Swamy
+Gokul Swamy (CMU, PhD)
 
-David Durst
+David Durst (Stanford, PhD)
 
 ### Alumni
 
-Edward Gu
+Edward Gu (Cornell)
 
 

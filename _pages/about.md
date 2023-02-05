@@ -18,3 +18,5 @@ Our mission is to enable robots to work seamlessly alongside human partners in t
 To this end, our work focuses on imitation learning, decision making and human-robot interaction. 
 We are passionate about both theory and algorithms that equip robots with skills to work with people.
 We focus on settings where a robot continually interacts with humans and its environment on domains such as collaborative mobile manipulation.
+
+If you are interested in working with us, please [read this note](https://www.sanjibanchoudhury.com/working_with_us/). 

@@ -11,7 +11,18 @@ nav_loc: 4
 Undergraduate and graduate courses taught in Cornell -->
 
 ## CS 4756: Robot Learning
-(*starting Spring 2023!*)
+[https://www.cs.cornell.edu/courses/cs4756/2023sp/](https://www.cs.cornell.edu/courses/cs4756/2023sp/)
+
+Advances in machine learning have proved critical for robots that continually interact with humans and their environments. Robots must solve the problem of both perception and decision making, i.e., sense the world using different modalities and act in the world by reasoning over decisions and their consequences. Learning plays a key role in how we model both sensing and acting. This course covers various modern robot learning concepts and how to apply them to solve real-world problems. We look at:
+1. **Learning perception models** using probabilistic inference and 2D/3D deep learning.
+2. **Imitation and interactive no-regret learning** that handle distribution shifts, exploration/exploitation.
+3. **Practical reinforcement learning** leveraging both model predictive control and model-free methods.
+4. **Open challenges** in visuomotor skill learning, forecasting and offline reinforcement learning.
+
+<img src="../assets/img/teaching/robot_learning.png" style="width:100%;" alt="l4rd" />
+
+<br>
+<hr>
 
 ## CS 6756: Learning for Robot Decision Making 
 [https://www.cs.cornell.edu/courses/cs6756/2022fa/](https://www.cs.cornell.edu/courses/cs6756/2022fa/) 
@@ -24,7 +35,7 @@ Advances in machine learning have fueled progress towards deploying real-world r
 
 This course focuses on algorithms, lessons from real world robotics and features a strong programming component.
 
-<img src="../assets/img/teaching/l4rd.png" style="width:100%;" alt="l4rd" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9VDXlW95qL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <hr>
