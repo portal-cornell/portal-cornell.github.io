@@ -143,7 +143,7 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/max_pace.png">
+          <img src="../assets/img/people/max_pace.jpg">
           <div class="card-body">
           <center>
             <h2 class="card-title text">Max Pace</h2>
