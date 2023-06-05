@@ -143,6 +143,18 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
+          <img src="../assets/img/people/vivian_fan.jpeg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Vivian Fan</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
           <img src="../assets/img/people/max_pace.jpg">
           <div class="card-body">
           <center>
@@ -171,6 +183,18 @@ nav_loc: 2
           <div class="card-body">
           <center>
             <h2 class="card-title text">Neha Sunkara</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/tenny.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Tenny Yin</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
