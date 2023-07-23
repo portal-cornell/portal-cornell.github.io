@@ -39,6 +39,7 @@ nav_loc: 2
     </div>
 
   <div class="grid-item">
+        <a href="https://lunay0yuki.github.io/" target="_blank">
           <div class="card hoverable">
             <img src="../assets/img/people/yuki_wang.jpg">
             <div class="card-body">
@@ -48,6 +49,7 @@ nav_loc: 2
             </center>
             </div>
           </div>
+        </a>
     </div>
 
   <div class="grid-item">
@@ -63,6 +65,7 @@ nav_loc: 2
   </div>
 
   <div class="grid-item">
+      <a href="https://yash-s20.github.io/" target="_blank">
         <div class="card hoverable">
           <img src="../assets/img/people/yash.png">
           <div class="card-body">
@@ -72,7 +75,35 @@ nav_loc: 2
           </center>
           </div>
         </div>
+      </a>
   </div>
+
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/lisa_asriev.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Lisa Asriev</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/atiksh_bhardwaj.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Atiksh Bhardwaj</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
 
   <div class="grid-item">
         <div class="card hoverable">
@@ -112,6 +143,30 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
+          <img src="../assets/img/people/vivian_fan.jpeg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Vivian Fan</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/max_pace.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Max Pace</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
           <img src="../assets/img/people/juntao.jpeg">
           <div class="card-body">
           <center>
@@ -128,6 +183,18 @@ nav_loc: 2
           <div class="card-body">
           <center>
             <h2 class="card-title text">Neha Sunkara</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/tenny.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Tenny Yin</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
