@@ -25,6 +25,18 @@ nav_loc: 2
     </div>
 
   <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/promise.png">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Promise Ekpo</h2>
+            <p class="card-text">Ph.D.</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
         <a href="https://kushal2000.github.io/" target="_blank">
           <div class="card hoverable">
             <img src="../assets/img/people/kushal_kedia.jpg">
@@ -51,6 +63,18 @@ nav_loc: 2
           </div>
         </a>
     </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/nathaniel.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Nathaniel Chin</h2>
+            <p class="card-text">M.S.</p>
+          </center>
+          </div>
+        </div>
+  </div>
 
   <div class="grid-item">
         <div class="card hoverable">
@@ -104,13 +128,12 @@ nav_loc: 2
         </div>
   </div>
 
-
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/kelly_chen.JPG">
+          <img src="../assets/img/people/angela.jpeg">
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Kelly Chen</h2>
+            <h2 class="card-title text">Angela Chao</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
@@ -119,10 +142,10 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/nathaniel.jpg">
+          <img src="../assets/img/people/kelly_chen.JPG">
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Nathaniel Chin</h2>
+            <h2 class="card-title text">Kelly Chen</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
@@ -147,6 +170,18 @@ nav_loc: 2
           <div class="card-body">
           <center>
             <h2 class="card-title text">Vivian Fan</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/aditya.jpeg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Aditya Kompella</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
@@ -191,18 +226,6 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/tenny.jpg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Tenny Yin</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-  </div>
-
-  <div class="grid-item">
-        <div class="card hoverable">
           <img src="../assets/img/people/david_wu.png">
           <div class="card-body">
           <center>
@@ -225,4 +248,4 @@ David Durst (Stanford, PhD)
 
 Edward Gu (Cornell)
 
-
+Tenny Yin (Cornell)
