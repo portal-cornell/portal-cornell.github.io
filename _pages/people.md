@@ -263,3 +263,5 @@ David Durst (Stanford, PhD)
 Edward Gu (Cornell)
 
 Tenny Yin (Cornell)
+
+Lisa Asriev (Cornell)
