@@ -25,16 +25,18 @@ nav_loc: 2
     </div>
 
   <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/promise.png">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Promise Ekpo</h2>
-            <p class="card-text">Ph.D.</p>
-          </center>
+        <a href="https://lunay0yuki.github.io/" target="_blank">
+          <div class="card hoverable">
+            <img src="../assets/img/people/yuki_wang.jpg">
+            <div class="card-body">
+            <center>
+              <h2 class="card-title text">Yuki Wang</h2>
+              <p class="card-text">Ph.D.</p>
+            </center>
+            </div>
           </div>
-        </div>
-  </div>
+        </a>
+    </div>
 
   <div class="grid-item">
         <a href="https://kushal2000.github.io/" target="_blank">
@@ -50,27 +52,15 @@ nav_loc: 2
         </a>
     </div>
 
-  <div class="grid-item">
-        <a href="https://lunay0yuki.github.io/" target="_blank">
-          <div class="card hoverable">
-            <img src="../assets/img/people/yuki_wang.jpg">
-            <div class="card-body">
-            <center>
-              <h2 class="card-title text">Yuki Wang</h2>
-              <p class="card-text">Ph.D.</p>
-            </center>
-            </div>
-          </div>
-        </a>
-    </div>
+  
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/nathaniel.jpg">
+          <img src="../assets/img/people/promise.png">
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Nathaniel Chin</h2>
-            <p class="card-text">M.S.</p>
+            <h2 class="card-title text">Promise Ekpo</h2>
+            <p class="card-text">Ph.D.</p>
           </center>
           </div>
         </div>
@@ -102,19 +92,17 @@ nav_loc: 2
       </a>
   </div>
 
-
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/lisa_asriev.jpg">
+          <img src="../assets/img/people/nathaniel.jpg">
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Lisa Asriev</h2>
-            <p class="card-text">Undergraduate</p>
+            <h2 class="card-title text">Nathaniel Chin</h2>
+            <p class="card-text">M.S.</p>
           </center>
           </div>
         </div>
   </div>
-
 
   <div class="grid-item">
         <div class="card hoverable">
@@ -122,6 +110,42 @@ nav_loc: 2
           <div class="card-body">
           <center>
             <h2 class="card-title text">Atiksh Bhardwaj</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/rahma.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Rahma Abdullah</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/sunny.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Sunny Sun</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/prithwish.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Prithwish Dan</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
@@ -152,17 +176,7 @@ nav_loc: 2
         </div>
   </div>
 
-  <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/prithwish.jpg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Prithwish Dan</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-  </div>
+  
 
   <div class="grid-item">
         <div class="card hoverable">
