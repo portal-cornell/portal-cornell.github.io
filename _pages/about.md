@@ -23,4 +23,4 @@ We are passionate about both theory and algorithms that equip robots with skills
 <!-- Our mission is to enable robots to work seamlessly alongside human partners in the wild. -->
 <!-- We focus on settings where a robot continually interacts with humans and its environment on domains such as collaborative mobile manipulation. -->
 
-If you are interested in joining our fantastic team, [apply here!](https://www.sanjibanchoudhury.com/working_with_us/). 
+If you are interested in joining our minion army to take over the world, [apply here!](https://www.sanjibanchoudhury.com/working_with_us/). 
