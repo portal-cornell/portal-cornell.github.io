@@ -39,23 +39,76 @@ We test our ideas across a broad range of applications:
 
 <table>
     <tr>
-        <td style="text-align: right;">
+        <!-- <td style="text-align: right;">
             <br>
-            <p align="justify"> <img src="../assets/img/research/2023_manicast.gif" style="width:100%;"
-                alt="2023_manciast" /> </p>
-        </td>  
+            <p align="justify"> <img src="../assets/img/research/2024_mosaic.gif" style="width:100%;"
+                alt="2024_mosaic" /> </p>
+        </td>   -->
+        <td style="text-align: right;">
+        <p align="justify"> 
+            <img src="../assets/img/research/2024_mosaic.gif" style="width:100%;" alt="2024_mosaic" /> 
+        </p>
+        <!-- New Image Tag Below -->
+        <p align="justify">
+            <img src="../assets/img/research/2024_mosaic_skills.png" style="width:100%;" alt="2024_mosaic_skills" />
+        </p>
+        </td> 
         <td style="padding:20px;width:75%;vertical-align:middle">
-          <strong>ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting</strong>
+          <strong>MOSAIC: A Modular System for Assistive and Interactive Cooking</strong>
           <br>
-          Kushal Kedia, Prithwish Dan, Atiksh Bhardwaj, Sanjiban Choudhury
+          Yuki Wang, Kushal Kedia, Juntao Ren, Rahma Abdullah, Atiksh Bhardwaj, Angela Chao, Kelly Y Chen, Nathaniel Chin, Prithwish Dan, Xinyi Fan, Gonzalo Gonzalez-Pumariega, Aditya Kompella, Maximus Adrian Pace, Yash Sharma, Xiangwan Sun, Neha Sunkara, Sanjiban Choudhury
           <br>
-          <em>Conference on Robot Learning (CoRL)</em>, 2023
+          <!-- <em>Conference on Robot Learning (CoRL)</em>, 2023 -->
           <br>
-          <a href="https://arxiv.org/pdf/2310.13258.pdf" target="_blank">paper</a> /
-          <a href="https://portal-cornell.github.io/manicast/" target="_blank">website</a> 
+          <a href="https://arxiv.org/abs/2402.18796" target="_blank">paper</a> /
+          <a href="https://portal-cornell.github.io/MOSAIC/" target="_blank">website</a> 
           <p></p>
           <p>
-          ManiCast learns forecasts of human motions and plans with such forecasts to solve collaborative manipulation tasks.  
+          MOSAIC combines large pre-trained models for general tasks with task-specific modules to enable collaborative cooking.
+          </p>
+        </td>
+      </tr>
+    <tr>
+    <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2024_hybrid_irl.jpg" style="width:100%;"
+                alt="2024_hybrid_irl" /> </p>
+        </td>  
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>Hybrid Inverse Reinforcement Learning</strong>
+          <br>
+          Juntao Ren, Gokul Swamy, Zhiwei Steven Wu, J. Andrew Bagnell, Sanjiban Choudhury
+          <br>
+          <!-- <em>International Conference on Robotics and Automation (ICRA)</em>, 2024 -->
+          <br>
+          <a href="https://arxiv.org/pdf/2402.08848.pdf" target="_blank">paper</a> 
+          <!-- <a href="https://portal-cornell.github.io/interact/" target="_blank">website</a>  -->
+          <p></p>
+          <p>
+          Hybrid IRL trains policies on a mixture of online and expert data to mitigate exploration.  
+          </p>
+        </td>
+      </tr>
+    <tr>
+    <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2024_interact.png" style="width:100%;"
+                alt="2024_interact" /> </p>
+        </td>  
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>InteRACT: Transformer Models for Human Intent Prediction Conditioned on Robot Actions</strong>
+          <br>
+          Kushal Kedia, Atiksh Bhardwaj, Prithwish Dan, Sanjiban Choudhury
+          <br>
+          <em>International Conference on Robotics and Automation (ICRA)</em>, 2024
+          <br>
+          <a href="https://arxiv.org/pdf/2311.12943.pdf" target="_blank">paper</a> /
+          <a href="https://portal-cornell.github.io/interact/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          Interact, predicts human intent conditioned on future robot actions for collaborative manipulation.  
           </p>
         </td>
       </tr>
@@ -78,6 +131,50 @@ We test our ideas across a broad range of applications:
           <p></p>
           <p>
           Demo2Code leverages LLMs to translate demonstrations to robot task code via an extended chain-of-thought that recursively summarizes demos to specification, and recursively expands specification to code.
+          </p>
+        </td>
+      </tr>
+    <tr>
+      <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2023_multi_icl.jpg" style="width:100%;"
+                alt="2023_multi_icl" /> </p>
+        </td>  
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>Learning Shared Safety Constraints from Multi-task Demonstrations</strong>
+          <br>
+          Konwoo Kim, Gokul Swamy, Zuxin Liu, Ding Zhao, Sanjiban Choudhury, Steven Wu
+          <br>
+          <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2023
+          <br>
+          <a href="https://arxiv.org/pdf/2309.00711.pdf" target="_blank">paper</a> /
+          <a href="https://gokul.dev/icl/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          MT-ICL learns safety constraints from expert demonstrations across multiple tasks.
+          </p>
+        </td>
+      </tr>
+    <tr>
+    <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2023_manicast.gif" style="width:100%;"
+                alt="2023_manciast" /> </p>
+        </td>  
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting</strong>
+          <br>
+          Kushal Kedia, Prithwish Dan, Atiksh Bhardwaj, Sanjiban Choudhury
+          <br>
+          <em>Conference on Robot Learning (CoRL)</em>, 2023
+          <br>
+          <a href="https://arxiv.org/pdf/2310.13258.pdf" target="_blank">paper</a> /
+          <a href="https://portal-cornell.github.io/manicast/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          ManiCast learns forecasts of human motions and plans with such forecasts to solve collaborative manipulation tasks.  
           </p>
         </td>
       </tr>
@@ -132,7 +229,7 @@ We test our ideas across a broad range of applications:
           <br>
           Kushal Kedia, Prithwish Dan, Sanjiban Choudhury
           <br>
-          <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2021
+          <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2023
           <br>
           <a href="https://arxiv.org/pdf/2308.06137.pdf" target="_blank">paper</a> /
           <a href="https://portal-cornell.github.io/game-theoretic-forecasting-planning/" target="_blank">website</a> 
