@@ -8,7 +8,7 @@ nav_loc: 3
 ---
 
 
-## <img src="../assets/img/robot/robotouille_icon.png" alt="Icon" style="vertical-align: middle; width: 32px; height: 32px;"> **H**ome **A**pprentice **L**earner (HAL)
+## **H**ome **A**pprentice **L**earner (HAL)
 <p style="text-align:center;">
 <img src="../assets/img/robot/hal_skills.gif" style="width:100%;" alt="hal">
 </p>

@@ -67,29 +67,17 @@ nav_loc: 2
   </div>
 
   <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/gonzalo.png">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Gonzalo Gonzalez</h2>
-            <p class="card-text">M.S.</p>
-          </center>
+        <a href="https://www.linkedin.com/in/gonzalogonzalez2000/" target="_blank">
+          <div class="card hoverable">
+            <img src="../assets/img/people/gonzalo.png">
+            <div class="card-body">
+            <center>
+              <h2 class="card-title text">Gonzalo Gonzalez</h2>
+              <p class="card-text">M.S.</p>
+            </center>
+            </div>
           </div>
-        </div>
-  </div>
-
-  <div class="grid-item">
-      <a href="https://yash-s20.github.io/" target="_blank">
-        <div class="card hoverable">
-          <img src="../assets/img/people/yash.png">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Yash Sharma</h2>
-            <p class="card-text">M.S.</p>
-          </center>
-          </div>
-        </div>
-      </a>
+        </a>
   </div>
 
   <div class="grid-item">
@@ -102,18 +90,6 @@ nav_loc: 2
           </center>
           </div>
         </div>
-  </div>
-
-  <div class="grid-item">
-      <div class="card hoverable">
-        <img src="../assets/img/people/kelly_chen.JPG">
-        <div class="card-body">
-        <center>
-          <h2 class="card-title text">Kelly Chen</h2>
-          <p class="card-text">Undergraduate</p>
-        </center>
-        </div>
-      </div>
   </div>
 
   <div class="grid-item">
@@ -178,22 +154,10 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/vivian_fan.jpeg">
+          <img src="../assets/img/people/nicole_thean.png">
           <div class="card-body">
           <center>
-            <h2 class="card-title text">Vivian Fan</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-  </div>
-
-  <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/aditya.jpeg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Aditya Kompella</h2>
+            <h2 class="card-title text">Nicole Thean</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
@@ -226,18 +190,6 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
-          <img src="../assets/img/people/rahma.jpg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Rahma Abdullah</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-  </div>
-
-  <div class="grid-item">
-        <div class="card hoverable">
           <img src="../assets/img/people/sunny.jpg">
           <div class="card-body">
           <center>
@@ -254,6 +206,42 @@ nav_loc: 2
           <div class="card-body">
           <center>
             <h2 class="card-title text">Su Yean Leong</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/alan_chen.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Alan Chen</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/emil_jiang.png">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Emil Jiang</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/sidharth_rao.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Sidharth Rao</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
@@ -282,8 +270,18 @@ David Durst (Stanford, PhD)
 
 ### Alumni
 
-Edward Gu (Cornell)
+Yash Sharma (Cornell, M.S.)
 
-Tenny Yin (Cornell)
+Edward Gu (Cornell, Undergraduate)
 
-Lisa Asriev (Cornell)
+Tenny Yin (Cornell, Undergraduate)
+
+Lisa Asriev (Cornell, Undergraduate)
+
+Kelly Chen (Cornell, Undergraduate)
+
+Vivian Fan (Cornell, Undergraduate)
+
+Aditya Kompella (Cornell, Undergraduate)
+
+Rahma Abdullah (Cornell, Undergraduate)
