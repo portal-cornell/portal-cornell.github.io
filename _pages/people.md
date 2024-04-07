@@ -67,7 +67,7 @@ nav_loc: 2
   </div>
 
   <div class="grid-item">
-        <a href="https://www.linkedin.com/in/gonzalogonzalez2000/" target="_blank">
+        <a href="https://gonzalogonzalezpumariega.com/" target="_blank">
           <div class="card hoverable">
             <img src="../assets/img/people/gonzalo.png">
             <div class="card-body">
