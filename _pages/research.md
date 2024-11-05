@@ -39,6 +39,74 @@ We test our ideas across a broad range of applications:
 
 <table>
     <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2024_mtpi.png" style="width:100%;"
+                alt="2024_mtpi" /> </p>
+        </td>   
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning</strong>
+          <br>
+          Juntao Ren, Priya Sundaresan, Dorsa Sadigh, Sanjiban Choudhury, Jeannette Bohg
+          <br>
+          <!-- <em>International Conference on Robotics and Automation (ICRA)</em>, 2025 -->
+          <br>
+          <!-- <a href="https://arxiv.org/abs/2409.0661" target="_blank">paper</a> / -->
+          <a href="https://portal.cs.cornell.edu/motion_track_policy/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          Motion-Track Policy (MT-PI) presents a unified action space by representing actions as 2D trajectories on an image, enabling the robots to directly imitate from cross-embodiment datasets.
+          </p>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2024_rhyme.png" style="width:100%;"
+                alt="2024_rhyme" /> </p>
+        </td>   
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>One-Shot Imitation under Mismatched Execution</strong>
+          <br>
+          Kushal Kedia, Prithwish Dan, Angela Chao, Maximus Adrian Pace, Sanjiban Choudhury
+          <br>
+          <!-- <em>International Conference on Robotics and Automation (ICRA)</em>, 2025 -->
+          <br>
+          <a href="https://arxiv.org/abs/2409.0661" target="_blank">paper</a> /
+          <a href="https://portal.cs.cornell.edu/rhyme/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          RHyME introduces a new framework that enables robots to learn from watching human demonstrations even when there are differences in execution styles.
+          </p>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: right;">
+        <p align="justify"> 
+            <img src="../assets/img/research/2024_apricot.gif" style="width:100%;" alt="2024_apricot" /> 
+        </p>
+        <!-- New Image Tag Below -->
+        <p align="justify">
+            <img src="../assets/img/research/2024_apricot_pipeline.png" style="width:100%;" alt="2024_apricot_pipeline" />
+        </p>
+        </td>   
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>APRICOT: Active Preference Learning and Constraint-Aware Task Planning with LLMs</strong>
+          <br>
+          Yuki Wang, Nathaniel Chin, Gonzalo Gonzalez-Pumariega, and Xiangwan Sun, Neha Sunkara, Maximus Adrian Pace, Jeannette Bohg, Sanjiban Choudhury
+          <br>
+          <em>Conference on Robot Learning (CoRL)</em>, 2024
+          <br>
+          <a href="https://arxiv.org/abs/2410.19656" target="_blank">paper</a> /
+          <a href="https://portal-cornell.github.io/apricot/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          APRICOT combines the generative ability of LLMs with Bayesian active preference learning, allowing robots to interactively query users to reduce uncertainty.
+          </p>
+        </td>
+      </tr>
+    <tr>
+    <tr>
         <!-- <td style="text-align: right;">
             <br>
             <p align="justify"> <img src="../assets/img/research/2024_mosaic.gif" style="width:100%;"
@@ -58,7 +126,7 @@ We test our ideas across a broad range of applications:
           <br>
           Yuki Wang, Kushal Kedia, Juntao Ren, Rahma Abdullah, Atiksh Bhardwaj, Angela Chao, Kelly Y Chen, Nathaniel Chin, Prithwish Dan, Xinyi Fan, Gonzalo Gonzalez-Pumariega, Aditya Kompella, Maximus Adrian Pace, Yash Sharma, Xiangwan Sun, Neha Sunkara, Sanjiban Choudhury
           <br>
-          <!-- <em>Conference on Robot Learning (CoRL)</em>, 2023 -->
+          <em>Conference on Robot Learning (CoRL)</em>, 2024
           <br>
           <a href="https://arxiv.org/abs/2402.18796" target="_blank">paper</a> /
           <a href="https://portal-cornell.github.io/MOSAIC/" target="_blank">website</a> 
@@ -80,10 +148,10 @@ We test our ideas across a broad range of applications:
           <br>
           Juntao Ren, Gokul Swamy, Zhiwei Steven Wu, J. Andrew Bagnell, Sanjiban Choudhury
           <br>
-          <!-- <em>International Conference on Robotics and Automation (ICRA)</em>, 2024 -->
+          <em>International Conference on Machine Learning (ICML)</em>, 2024
           <br>
           <a href="https://arxiv.org/pdf/2402.08848.pdf" target="_blank">paper</a> 
-          <!-- <a href="https://portal-cornell.github.io/interact/" target="_blank">website</a>  -->
+          <a href="https://gokul.dev/hyper/" target="_blank">website</a> 
           <p></p>
           <p>
           Hybrid IRL trains policies on a mixture of online and expert data to mitigate exploration.  
