@@ -68,11 +68,11 @@ We test our ideas across a broad range of applications:
         <td style="padding:20px;width:75%;vertical-align:middle">
           <strong>One-Shot Imitation under Mismatched Execution</strong>
           <br>
-          Kushal Kedia, Prithwish Dan, Angela Chao, Maximus Adrian Pace, Sanjiban Choudhury
+          Kushal Kedia*, Prithwish Dan*, Angela Chao, Maximus Adrian Pace, Sanjiban Choudhury
           <br>
           <!-- <em>International Conference on Robotics and Automation (ICRA)</em>, 2025 -->
           <br>
-          <a href="https://arxiv.org/abs/2409.0661" target="_blank">paper</a> /
+          <a href="https://arxiv.org/abs/2409.06615" target="_blank">paper</a> /
           <a href="https://portal.cs.cornell.edu/rhyme/" target="_blank">website</a> 
           <p></p>
           <p>
@@ -124,7 +124,7 @@ We test our ideas across a broad range of applications:
         <td style="padding:20px;width:75%;vertical-align:middle">
           <strong>MOSAIC: A Modular System for Assistive and Interactive Cooking</strong>
           <br>
-          Yuki Wang, Kushal Kedia, Juntao Ren, Rahma Abdullah, Atiksh Bhardwaj, Angela Chao, Kelly Y Chen, Nathaniel Chin, Prithwish Dan, Xinyi Fan, Gonzalo Gonzalez-Pumariega, Aditya Kompella, Maximus Adrian Pace, Yash Sharma, Xiangwan Sun, Neha Sunkara, Sanjiban Choudhury
+          Yuki Wang*, Kushal Kedia*, Juntao Ren*, Rahma Abdullah, Atiksh Bhardwaj, Angela Chao, Kelly Y Chen, Nathaniel Chin, Prithwish Dan, Xinyi Fan, Gonzalo Gonzalez-Pumariega, Aditya Kompella, Maximus Adrian Pace, Yash Sharma, Xiangwan Sun, Neha Sunkara, Sanjiban Choudhury
           <br>
           <em>Conference on Robot Learning (CoRL)</em>, 2024
           <br>
