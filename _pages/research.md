@@ -12,32 +12,53 @@ nav_loc: 1
 </div>
 <br/><br/> -->
 
-### Foundations
-Our research is grounded in the fundamentals of artificial intelligence, focusing on the key question of <a href="https://www.youtube.com/watch?v=V38omEpfbjI&list=PLQZQ7N26C6ba2BDFVULmmBYC80cX6pNjZ&index=1" target="_blank">imitation learning</a> --- <em>How can an agent learn new behaviors by observing and interacting with a teacher?</em> 
-
-Imitation learning offers a simple yet scalable way to **implicitly program agents** through demonstrations, interventions, or preferences. This has widespread impacts across various disciplines ranging from <a href="https://www.youtube.com/watch?v=QYsRzu7b_iQ&feature=youtu.be" target="_blank">teaching your home robot</a> to make you a bowl of soup, to <a href="https://openai.com/research/instruction-following" target="_blank">aligning large language models</a> from human preferences, to teaching self-driving cars to <a href="https://youtu.be/99kN1SVqjjA" target="_blank">drive more like humans</a>.
-
-We explore a diverse array of questions in our research:
-* **Efficient Inverse Reinforcement Learning**: How can we design algorithms that are exponentially more efficient than reinforcement learning? 
-* **Vision-Language Demonstrations** How can we learn complex, long-horizon tasks from vision and language demonstrations?
-* **Suboptimal experts** How do we learn from noisy, suboptimal experts? 
-* **Human-Robot Teaming Behaviors** How can we learn effective human-robot collaboration from human-human teams?
-
-... and much more! Checkout some of our <a href="" target="_blank">projects</a>.
-
-### Applications
-
-We test our ideas across a broad range of applications: 
-
-1. **Everyday Robots:** Our primary focus is building home robots that interact with everyday users to learn personalized tasks like collaborative cooking, cleaning and assembly.
-
-2. **Collaborative Games:** Games are a fun way to learn how humans collaborate, and there's lots of data! Through games, we explore new algorithms and architectures for effective human-robot collaboration.
-
-3. **Self-Driving:** With industry partners Aurora, we develop ML models that enable safe, human-like driving. 
+We work on interactive AI agents that self-align through few-shot interactions with humans and their environment. Our research focuses on reinforcement learning, imitation learning and foundation models for robotics, agents and code generation.
 
 ### Projects
 
 <table>
+    <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2025_mucode.gif" style="width:100%;"
+                alt="2025_mucode" /> </p>
+        </td>   
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>Multi-Turn Code Generation Through Single-Step Rewards</strong>
+          <br>
+          Arnav Kumar Jain*, Gonzalo Gonzalez-Pumariega*, Wayne Chen, Alexander M Rush, Wenting Zhao, Sanjiban Choudhury
+          <br>
+          <!-- <em>International Conference on Machine Learning (ICML)</em>, 2024 -->
+          <br>
+          <a href="https://arxiv.org/abs/2502.20380" target="_blank">paper</a> /
+          <a href="https://portal-cornell.github.io/muCode/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          μCode is a simple and scalable method for multi-turn code generation leveraging learned verifiers.
+          </p>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2025_orca.png" style="width:100%;"
+                alt="2025_orca" /> </p>
+        </td>   
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>Imitation Learning from a Single Temporally Misaligned Video</strong>
+          <br>
+          William Huey*, Huaxiaoyue Wang*, Anne Wu, Yoav Artzi, Sanjiban Choudhury
+          <br>
+          <!-- <em>International Conference on Machine Learning (ICML)</em>, 2024 -->
+          <br>
+          <a href="https://arxiv.org/pdf/2502.05397" target="_blank">paper</a>
+          <!-- <a href="https://portal.cs.cornell.edu/rhyme/" target="_blank">website</a>  -->
+          <p></p>
+          <p>
+          ORCA (ORdered Coverage Alignment) formulates rewards as an ordered coverage problem, enabling robots to learn from a single temporally misaligned video demonstration.
+          </p>
+        </td>
+    </tr>
     <tr>
         <td style="text-align: right;">
             <br>
@@ -49,9 +70,9 @@ We test our ideas across a broad range of applications:
           <br>
           Juntao Ren, Priya Sundaresan, Dorsa Sadigh, Sanjiban Choudhury, Jeannette Bohg
           <br>
-          <!-- <em>International Conference on Robotics and Automation (ICRA)</em>, 2025 -->
+          <em>International Conference on Robotics and Automation (ICRA)</em>, 2025
           <br>
-          <!-- <a href="https://arxiv.org/abs/2409.0661" target="_blank">paper</a> / -->
+          <a href="https://arxiv.org/abs/2501.06994" target="_blank">paper</a> /
           <a href="https://portal.cs.cornell.edu/motion_track_policy/" target="_blank">website</a> 
           <p></p>
           <p>
@@ -68,15 +89,57 @@ We test our ideas across a broad range of applications:
         <td style="padding:20px;width:75%;vertical-align:middle">
           <strong>One-Shot Imitation under Mismatched Execution</strong>
           <br>
-          Kushal Kedia*, Prithwish Dan*, Angela Chao, Maximus Adrian Pace, Sanjiban Choudhury
+          Kushal Kedia, Prithwish Dan, Angela Chao, Maximus Adrian Pace, Sanjiban Choudhury
           <br>
-          <!-- <em>International Conference on Robotics and Automation (ICRA)</em>, 2025 -->
+          <em>International Conference on Robotics and Automation (ICRA)</em>, 2025
           <br>
           <a href="https://arxiv.org/abs/2409.06615" target="_blank">paper</a> /
           <a href="https://portal.cs.cornell.edu/rhyme/" target="_blank">website</a> 
           <p></p>
           <p>
           RHyME introduces a new framework that enables robots to learn from watching human demonstrations even when there are differences in execution styles.
+          </p>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2025_sfm.png" style="width:100%;"
+                alt="2025_sfm" /> </p>
+        </td>   
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching</strong>
+          <br>
+          Arnav Kumar Jain, Harley Wiltzer, Jesse Farebrother, Irina Rish, Glen Berseth, Sanjiban Choudhury
+          <br>
+          <em>International Conference on Learning Representations (ICLR)</em>, 2025
+          <br>
+          <a href="https://arxiv.org/abs/2411.07007" target="_blank">paper</a> /
+          <a href="https://arnavkj1995.github.io/SFM/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          SFM (Successor Feature Matching) presents a non-adversarial approach for inverse reinforcement learning (IRL) and can learn from state-only demonstrations.
+          </p>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: right;">
+            <br>
+            <p align="justify"> <img src="../assets/img/research/2025_robotouille.gif" style="width:100%;"
+                alt="2025_robotouille" /> </p>
+        </td>   
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          <strong>Robotouille: An Asynchronous Planning Benchmark for LLM Agents</strong>
+          <br>
+          Gonzalo Gonzalez-Pumariega, Leong Su Yean, Neha Sunkara, Sanjiban Choudhury
+          <br>
+          <em>International Conference on Learning Representations (ICLR)</em>, 2025
+          <br>
+          <a href="https://arxiv.org/abs/2502.05227" target="_blank">paper</a> /
+          <a href="https://portal-cornell.github.io/robotouille/" target="_blank">website</a> 
+          <p></p>
+          <p>
+          Robotouille is a challenging benchmark that tests LLM agents synchronous and asynchronous planning capabilities through diverse long-horizon tasks and time delays.
           </p>
         </td>
     </tr>
