@@ -189,21 +189,6 @@ nav_loc: 2
   </div>
 
   <div class="grid-item">
-      <a href="https://jren03.github.io/" target="_blank">
-        <div class="card hoverable">
-          <img src="../assets/img/people/juntao.jpeg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Juntao Ren</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-      </a>
-  </div>
-
-
-  <div class="grid-item">
       <a href="https://ns597.github.io/cv/" target="_blank">
         <div class="card hoverable">
           <img src="../assets/img/people/neha.jpeg">
@@ -240,18 +225,6 @@ nav_loc: 2
           </div>
         </div>
   </div> 
-
-  <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/alan_chen.jpg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Alan Chen</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-  </div>
 
   <div class="grid-item">
       <a href="https://www.willhuey.com/" target="_blank">
@@ -294,49 +267,23 @@ nav_loc: 2
   </div>
 
   <div class="grid-item">
-      <a href="https://iamsrao.com/" target="_blank">
-        <div class="card hoverable">
-          <img src="../assets/img/people/sidharth_rao.jpg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Sidharth Rao</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-      </a>
-  </div>
-
-  <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/sunny.jpg">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Sunny Sun</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-  </div>
-
-  <div class="grid-item">
-        <div class="card hoverable">
-          <img src="../assets/img/people/nicole_thean.png">
-          <div class="card-body">
-          <center>
-            <h2 class="card-title text">Nicole Thean</h2>
-            <p class="card-text">Undergraduate</p>
-          </center>
-          </div>
-        </div>
-  </div>
-
-  <div class="grid-item">
         <div class="card hoverable">
           <img src="../assets/img/people/arnav_vasudev.png">
           <div class="card-body">
           <center>
             <h2 class="card-title text">Arnav Vasudev</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
+          <img src="../assets/img/people/esha.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Esha Shah</h2>
             <p class="card-text">Undergraduate</p>
           </center>
           </div>
@@ -380,3 +327,13 @@ Vivian Fan (Cornell, Undergraduate)
 Aditya Kompella (Cornell, Undergraduate)
 
 Rahma Abdullah (Cornell, Undergraduate)
+
+Nicole Thean (Cornell, Undergraduate)
+
+Sunny Sun (Cornell, Undergraduate)
+
+Siddarth Rao (Cornell, Undergraduate)
+
+Alan Chen (Cornell, Undergraduate)
+
+Juntao Ren (Cornell, Undergraduate)

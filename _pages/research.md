@@ -26,7 +26,7 @@ We work on interactive AI agents that self-align through few-shot interactions w
         <td style="padding:20px;width:75%;vertical-align:middle">
           <strong>Multi-Turn Code Generation Through Single-Step Rewards</strong>
           <br>
-          Arnav Kumar Jain*, Gonzalo Gonzalez-Pumariega*, Wayne Chen, Alexander M Rush, Wenting Zhao, Sanjiban Choudhury
+          Arnav Kumar Jain*, Gonzalo Gonzalez-Pumariega*, Wayne Chen, Alexander M Rush, Wenting Zhao†, Sanjiban Choudhury†
           <br>
           <!-- <em>International Conference on Machine Learning (ICML)</em>, 2024 -->
           <br>
