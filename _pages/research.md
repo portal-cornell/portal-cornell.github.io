@@ -62,7 +62,7 @@ We work on interactive AI agents that self-align through few-shot interactions w
     <tr>
         <td style="text-align: right;">
             <br>
-            <p align="justify"> <img src="../assets/img/research/2024_mtpi.png" style="width:100%;"
+            <p align="justify"> <img src="../assets/img/research/2024_mtpi.gif" style="width:100%;"
                 alt="2024_mtpi" /> </p>
         </td>   
         <td style="padding:20px;width:75%;vertical-align:middle">

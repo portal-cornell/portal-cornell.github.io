@@ -6,10 +6,10 @@ The website is based off of the alfolio Jekyll theme (https://github.com/alshedi
 
 ## Updating the website
 
-Updating the website is easy. Make sure you are on the `main` branch, make your changes, commit and push. To view the website locally
+Updating the website is easy. Make sure you are on the `main` branch, make your changes, commit and push. Note that `bundle exec jekyll serve --incremental` sometimes does not show the updated news. To view the website locally
 
 ``` bash
-bundle exec jekyll serve --incremental
+bundle exec jekyll serve
 ```
 
 When you are ready to deploy the website, type:
