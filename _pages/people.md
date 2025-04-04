@@ -292,6 +292,18 @@ nav_loc: 2
 
   <div class="grid-item">
         <div class="card hoverable">
+          <img src="../assets/img/people/audrey_du.jpg">
+          <div class="card-body">
+          <center>
+            <h2 class="card-title text">Audrey Du</h2>
+            <p class="card-text">Undergraduate</p>
+          </center>
+          </div>
+        </div>
+  </div>
+
+  <div class="grid-item">
+        <div class="card hoverable">
           <img src="../assets/img/people/david_wu.png">
           <div class="card-body">
           <center>
